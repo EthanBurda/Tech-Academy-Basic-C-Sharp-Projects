@@ -14,7 +14,7 @@ namespace CIQ
             string driverAge = Console.ReadLine();
             int age = Convert.ToInt32(driverAge);
 
-            Console.WriteLine("Have you ever had a DUI?");
+            Console.WriteLine("Have you ever had a DUI? Please type True if Yes or False if No.");
             string driverDUI = Console.ReadLine();
             bool DUI = Convert.ToBoolean(driverDUI);
 

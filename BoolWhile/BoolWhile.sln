@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolWhile", "BoolWhile\BoolWhile.csproj", "{7A0C6778-F623-4D18-AB78-F1B43D97ACEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0C6778-F623-4D18-AB78-F1B43D97ACEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0C6778-F623-4D18-AB78-F1B43D97ACEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0C6778-F623-4D18-AB78-F1B43D97ACEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0C6778-F623-4D18-AB78-F1B43D97ACEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0AD1D69-0DBA-4E60-8B66-32D7751DDEB8}
+	EndGlobalSection
+EndGlobal
